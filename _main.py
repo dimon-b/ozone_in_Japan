@@ -24,7 +24,11 @@ if __name__ == '__main__':
 
     # --- read
     obj = code1.Processing(inp_dir, plt_dir)
-    obj.proccess()
+
+    # --- start and end years
+    years = [1973, 1975]
+    for yr in range(years[0], years[1]):
+        obj.proccess(str(yr))
 
 
 
