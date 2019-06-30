@@ -49,3 +49,7 @@ Project/
 # Pycharm
 .idea/
 venv/
+
+# Jupyter_Notebook
+Jupyter_Notebook.lnk
+.ipynb*
