@@ -26,7 +26,7 @@ class Processing():
         self.plt_dir = plt_dir
 
         # --- 2d map for Japan
-        self.map_lims = [26, 46, 126, 146, 4, 4]
+        self.map_lims = [36, 38, 140, 144, 1, 1]
 
     # --- data processing
     def proccess(self, yr):
