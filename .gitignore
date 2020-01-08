@@ -1,35 +1,5 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
 # My
 *~
-*.b1
 *.txt
 *.png
 *.bin
@@ -40,9 +10,6 @@
 *.b1
 yrun
 
-# Intel Composer
-Project/
-
 # Python
 *.pyc
 
@@ -52,4 +19,4 @@ venv/
 
 # Jupyter_Notebook
 Jupyter_Notebook.lnk
-.ipynb*
+.ipynb_checkpoints
